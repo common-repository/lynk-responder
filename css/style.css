@@ -1,0 +1,14 @@
+.contentDocument {font-weight:normal!important;}
+.titleDocument {background-color:#FFB627;font-size:15px;padding:6px 0px 6px 6px;font-weight:bold;color:#fff;text-transform:uppercase;}
+.titleDocumentCanali {background-color:#000;font-size:15px;padding:6px 0px 6px 6px;font-weight:bold;color:#fff;text-transform:uppercase;}
+.titleDocumentSupport {background-color:#000;font-size:15px;padding:6px 0px 6px 6px;font-weight:bold;color:#fff;text-transform:uppercase;}
+.descriptionDocument {padding:10px 15px;}
+.listDocument li{list-style-type:disc;padding-left:5px;}
+.listDocument li a{color:orange!important; text-decoration:underline!important;}
+.listDocument {list-style-type:disc;padding-left:10px;}
+.listDocument { margin:0px; }
+b, strong { font-weight: bold!important; }
+
+#main-settings-table td { vertical-align:top; }
+#main-settings-table  table.form-table { background-color:#E2E2E2; }
+#main-settings-table  table.form-table  th { padding-left:7px; }
